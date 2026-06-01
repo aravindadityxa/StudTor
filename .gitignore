@@ -1,0 +1,29 @@
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+studtor_env/
+backend/studtor_env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Distribution
+dist/
+build/
+
+# Logs
+*.log
+
+# SQLite DB
+*.db
